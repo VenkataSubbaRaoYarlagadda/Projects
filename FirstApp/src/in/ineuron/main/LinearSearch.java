@@ -25,6 +25,8 @@ public class LinearSearch {
 		System.out.println("not fpound");
 		}
 
+		//
+		
 	}
 
 }
